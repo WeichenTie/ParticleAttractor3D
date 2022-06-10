@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ParticleAttractor3D/static/css/main.073c9b0a.css",
-    "main.js": "/ParticleAttractor3D/static/js/main.a9f42e61.js",
+    "main.js": "/ParticleAttractor3D/static/js/main.a9e27493.js",
     "static/js/787.b537ee29.chunk.js": "/ParticleAttractor3D/static/js/787.b537ee29.chunk.js",
     "index.html": "/ParticleAttractor3D/index.html",
     "main.073c9b0a.css.map": "/ParticleAttractor3D/static/css/main.073c9b0a.css.map",
-    "main.a9f42e61.js.map": "/ParticleAttractor3D/static/js/main.a9f42e61.js.map",
+    "main.a9e27493.js.map": "/ParticleAttractor3D/static/js/main.a9e27493.js.map",
     "787.b537ee29.chunk.js.map": "/ParticleAttractor3D/static/js/787.b537ee29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.a9f42e61.js"
+    "static/js/main.a9e27493.js"
   ]
 }
